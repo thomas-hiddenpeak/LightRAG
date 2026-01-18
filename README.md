@@ -130,7 +130,7 @@ lightrag-server
 * Installation from Source
 
 ```bash
-git clone https://github.com/HKUDS/LightRAG.git
+git clone https://github.com/thomas-hiddenpeak/LightRAG.git
 cd LightRAG
 
 # Using uv (recommended)
@@ -159,7 +159,7 @@ lightrag-server
 * Launching the LightRAG Server with Docker Compose
 
 ```bash
-git clone https://github.com/HKUDS/LightRAG.git
+git clone https://github.com/thomas-hiddenpeak/LightRAG.git
 cd LightRAG
 cp env.example .env  # Update the .env with your LLM and embedding configurations
 # modify LLM and Embedding settings in .env
